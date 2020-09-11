@@ -13,6 +13,7 @@
 		24AEFA0B250906A3004D7A5A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24AEFA09250906A3004D7A5A /* Main.storyboard */; };
 		24AEFA0D250906A7004D7A5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24AEFA0C250906A7004D7A5A /* Assets.xcassets */; };
 		24AEFA10250906A7004D7A5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24AEFA0E250906A7004D7A5A /* LaunchScreen.storyboard */; };
+		24AEFA18250A9DBF004D7A5A /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24AEFA17250A9DBF004D7A5A /* Place.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		24AEFA0C250906A7004D7A5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24AEFA0F250906A7004D7A5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24AEFA11250906A7004D7A5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24AEFA17250A9DBF004D7A5A /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				24AEFA05250906A3004D7A5A /* SceneDelegate.swift */,
 				24AEFA07250906A3004D7A5A /* ViewController.swift */,
 				24AEFA09250906A3004D7A5A /* Main.storyboard */,
+				24AEFA17250A9DBF004D7A5A /* Place.swift */,
 				24AEFA0C250906A7004D7A5A /* Assets.xcassets */,
 				24AEFA0E250906A7004D7A5A /* LaunchScreen.storyboard */,
 				24AEFA11250906A7004D7A5A /* Info.plist */,
@@ -141,6 +144,7 @@
 				24AEFA08250906A3004D7A5A /* ViewController.swift in Sources */,
 				24AEFA04250906A3004D7A5A /* AppDelegate.swift in Sources */,
 				24AEFA06250906A3004D7A5A /* SceneDelegate.swift in Sources */,
+				24AEFA18250A9DBF004D7A5A /* Place.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
